@@ -1,5 +1,5 @@
-# Document-Context-to-Sentence-Simplication
-This repository contains the dataset used in the paper "On the Helpfulness of Document Context to Sentence Simpliﬁcation"
+# Document-Context-to-Sentence-Simplification
+This repository contains the dataset used in the paper "On the Helpfulness of Document Context to Sentence Simplification"
 
 
 (1) The file "With_context.txt" contains sentence pairs with the preceding sentences and the following sentences. The format is as follows:
