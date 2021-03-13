@@ -6,6 +6,9 @@ pip install -r requirement.txt
 ```
 ## Step 2 &nbsp; &nbsp; Preprocess
 
+This folder should contain at least the training set files "context_downstairs_train.txt" and "sentence_train.txt", and the test set file "test.txt".
+Please refer to "With_context.txt" for the format of "context_downstairs_train.txt" and "test.txt". The format of "sentence_train.txt" should refer to the format of "Without_context.txt".
+
 You should use the command:
 ```
 python Document-Prepare-Data.py
