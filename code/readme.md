@@ -19,4 +19,19 @@ python Sentence-Prepare-Data.py
 ```
 **Attention:**
 
-We have provided a dictionary file named ''vocab.txt''. However, for better performance, we strongly recommend that you make your own dictionary file based on the training set you are using.
+We have provided a dictionary file named ''vocab.txt''. However, for better performance, we strongly recommend that you make your own dictionary file based on the training set you are using and resize it as needed.
+
+## Step 3 &nbsp; &nbsp; Train
+
+You should use the command:
+```
+python main.py
+```
+
+## Step 4 &nbsp; &nbsp; Test
+You should use the command:
+```
+python test.py
+```
+
+And you can see the output from '.\wikipedia\result\simplified\'
