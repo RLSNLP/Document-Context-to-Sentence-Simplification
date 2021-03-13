@@ -1,3 +1,7 @@
+# Instruction
+
+This folder contains the code for the implementation of the SUC model. We refer to Li piji's code(https://github.com/lipiji/TranSummar) and are grateful for his help.
+
 ## Step 1 &nbsp; &nbsp; Requirements
 
 You should use the command:
@@ -34,4 +38,4 @@ You should use the command:
 python test.py
 ```
 
-And you can see the output from '.\wikipedia\result\simplified\'
+And you can see the output from "./wikipedia/result/simplified/"
